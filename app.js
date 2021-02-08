@@ -1,2 +1,4 @@
 const a = 100;
-const my_func = ()=>{};
+const b = 50;
+const myfunc = ()=>{};
+
